@@ -6,6 +6,6 @@
 The PIN_DEFECT_DATASET, PLQD datasets, and the verified_dataset are available on Google Drive.
 Here are the Google Drive links as follows:
 
-SADL–YOLOv11_verified dataset: https://drive.google.com/drive/folders/1QxX-NrO3O6bQ242zbEaD2u2Rs131asR8?usp=sharing
+SADL–YOLOv11_verified dataset: https://drive.google.com/drive/folders/1t4nXZB-RaSwgmsDMgQIFt2Bas8rg4qJk?usp=drive_link
 
-SADL–YOLOv11_DataSets: https://drive.google.com/drive/folders/1KcskuSDwmypLlVc1fNBqcq9FDFvcHTPJ?usp=sharing
+SADL–YOLOv11_DataSets: https://drive.google.com/drive/folders/1SLZfGRt7AkPu6WbYkmcdbNwwMfhXyauV?usp=drive_link
